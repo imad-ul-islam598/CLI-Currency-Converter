@@ -1,0 +1,20 @@
+{
+  "name": "imk-cli-currency-converter",
+  "version": "1.0.0",
+  "description": "A simple CLI based currency converter Project made with Typescript, Node.js and Inquirer. This project is developed by Imad Ul Islam. Run This Command on Your CMD For Testing this project 'npx imk-cli-currency-converter'",
+  "main": "main.js",
+  "type":"module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IMAD UL ISLAM",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+  
+}
